@@ -75,10 +75,10 @@ strong {
 section {
     background-color: rgba(255, 255, 255, 0.4);
     text-align: center;
-   
+    padding: 20px;
 }
 
-section p{
+section p {
     opacity: 0.5;
 }
 
@@ -93,5 +93,6 @@ footer {
 }
 
 #image-description {
-    height: 50px
+    height: 100px;
+    s
 }
