@@ -9,9 +9,10 @@ html, body {
 body {
     width: 100%;
     background-image: url(background_image.jpg);
-    background-size: 100%;
+    background-size: cover;
     background-position: 0px 100px;
-    background-repeat: none;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
     background-clip: content-box;
     text-align: center;
     font-family: 'Didact Gothic', sans-serif;
@@ -94,5 +95,4 @@ footer {
 
 #image-description {
     height: 100px;
-    s
 }
